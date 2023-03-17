@@ -1,3 +1,3 @@
 # A32NX-Fuel-Loading-System
 Simulating the fueling system of an A320N type aircraft.
-![](image.gif)
+![](https://github.com/S1ynced/A320_Fuel_Loading_Simulation/blob/main/image.gif)
